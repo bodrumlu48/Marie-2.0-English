@@ -220,11 +220,11 @@ __help__ = """
  - /adminlist: list of admins in the chat
 
 *Admin only:*
- - /pin: silently pins the message replied to - add 'loud' or 'notify' to give notifs to users.
- - /unpin: unpins the currently pinned message
- - /invitelink: gets invitelink
- - /promote: promotes the user replied to
- - /demote: demotes the user replied to
+ - /pin: herhangi mesajı sabitler.
+ - /unpin: bir mesajı sabıtlemeden kaldırır.
+ - /invitelink: davet bağlantısı alır.
+ - /promote: bir kullanıcıya yetki verir.
+ - /demote: bir kullanıcıdan yetki alır.
 """
 
 __mod_name__ = "Admin"
