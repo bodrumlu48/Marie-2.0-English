@@ -217,7 +217,7 @@ def __chat_settings__(chat_id, user_id):
 
 
 __help__ = """
- - /adminlist: list of admins in the chat
+ - /adminlist: admin lıstesını adminlist yazarak gorebılırsınız
 
 *Admin only:*
  - /pin: herhangi mesajı sabitler.
